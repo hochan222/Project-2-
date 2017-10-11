@@ -11,6 +11,7 @@
     
 #### 1. Git, GitHub 정의  
 
+https://ko.wikipedia.org/wiki/%EA%B9%83%ED%97%88%EB%B8%8C  - WiKi
 
 #### 2. GitHub 가입 방법  
 
