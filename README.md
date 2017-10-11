@@ -17,10 +17,13 @@ https://github.com/tadkim/infra/wiki/GitHub-::-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%8
 
 #### 2. GitHub 가입 방법  
 
+https://github.com/hochan222/Search/blob/master/GitHub%20%EA%B0%80%EC%9E%85%EB%B0%A9%EB%B2%95.md  
 
-#### 3. GitHub 사용 방법  
+#### 3. GitHub 사용 방법  
 
-Git은 다음과 같이 기본적으로 bash나 cmd 창을 이용하지만 이번 프로젝트는 주어진 환경상 GitHub 웹으로 사용 범위를 제한합니다.  
+https://github.com/hochan222/Search/blob/master/how_to_use_Git(Hub).md  
+
+Git은 다음과 같이 기본적으로 bash나 cmd 창을 이용하지만 이번 프로젝트는 주어진 환경상 GitHub 웹으로 사용 범위를 제한합니다.    
 
 '파일 이름.md' 과 같이 파일명 뒤에 .md를 붙이면 text 파일을 생성 할 수 있습니다.   
 
