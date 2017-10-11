@@ -32,6 +32,8 @@ Git은 다음과 같이 기본적으로 bash나 cmd 창을 이용하지만 이�
  
 GitHub에서는 MarkDown 언어를 주로 사용하므로 익혀두자.  
 
+https://github.com/hochan222/Search/blob/master/MarkDown.md   
+
 #### 6. 프로젝트 내의 폴더 설명
 
 현황판 : 현재 전체 작업 현황을 나타낸 공간입니다.
