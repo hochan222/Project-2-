@@ -17,7 +17,7 @@ https://github.com/tadkim/infra/wiki/GitHub-::-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%8
 
 #### 2. GitHub 가입 방법  
 
-[ㄱttps://github.com/hochan222/Search/blob/master/GitHub%20%EA%B0%80%EC%9E%85%EB%B0%A9%EB%B2%95.md  
+[GitHub 가입방법](https://github.com/hochan222/Search/blob/master/GitHub%20%EA%B0%80%EC%9E%85%EB%B0%A9%EB%B2%95.md)  
 
 #### 3. GitHub 사용 방법  
  
@@ -26,7 +26,7 @@ Git은 다음과 같이 기본적으로 bash나 cmd 창을 이용하지만 이�
 ![screensh](./img/1.PNG)  
 ![screensh](./img/2.PNG)  
 
-https://github.com/hochan222/Search/blob/master/how_to_use_Git(Hub).md  - URL ㄱㄱ   
+[기본적인 GitHub ](https://github.com/hochan222/Search/blob/master/how_to_use_Git(Hub).md)   
 
 #### 4. Branch 방법  
 
