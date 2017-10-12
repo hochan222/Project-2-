@@ -26,7 +26,7 @@ Git은 다음과 같이 기본적으로 bash나 cmd 창을 이용하지만 이�
 ![screensh](./img/1.PNG)  
 ![screensh](./img/2.PNG)  
 
-[기본적인 GitHub ](https://github.com/hochan222/Search/blob/master/how_to_use_Git(Hub).md)   
+[기본적인 GitHub 사용방법](https://github.com/hochan222/Search/blob/master/how_to_use_Git(Hub).md)   
 
 #### 4. Branch 방법  
 
@@ -35,7 +35,7 @@ Git은 다음과 같이 기본적으로 bash나 cmd 창을 이용하지만 이�
  
 GitHub에서는 MarkDown 언어를 주로 사용하므로 익혀두자.  
 
-https://github.com/hochan222/Search/blob/master/MarkDown.md   
+[기본적인 MarkDown Language 사용법](https://github.com/hochan222/Search/blob/master/MarkDown.md)   
 
 #### 6. 프로젝트 내의 폴더 설명
 
