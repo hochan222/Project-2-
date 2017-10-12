@@ -26,7 +26,7 @@ Git은 다음과 같이 기본적으로 bash나 cmd 창을 이용하지만 이�
 ![screensh](./img/1.PNG)  
 ![screensh](./img/2.PNG)  
 
-https://github.com/hochan222/Search/blob/master/how_to_use_Git(Hub).md   
+https://github.com/hochan222/Search/blob/master/how_to_use_Git(Hub).md  - URL ㄱㄱ   
 
 #### 4. Branch 방법  
 
