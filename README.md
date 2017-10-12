@@ -44,10 +44,10 @@ https://github.com/hochan222/Search/blob/master/MarkDown.md
      
      
      호찬(17.10.10) - img/ dir 생성요청 
-     Hochan dir 내에 img/ 생성완료
+     ->Hochan dir 내에 img/ 생성완료
      
      진혁 (17.10.11) - 조사범위 ~ 학교로 확대 
-     의견 반영 완료 
+     ->의견 반영 완료 
   
 각각 개인의 폴더가 주어졌으며 개인 폴더에서 작업을 하면 중간 중간에 최종 결과본으로 통합시킬 예정입니다. 
 각각 개인 내부에는 
