@@ -13,7 +13,7 @@
 
 https://www.zerocho.com/category/Git/post/58045dbc146be6001542a465  -블로그  
 https://ko.wikipedia.org/wiki/%EA%B9%83%ED%97%88%EB%B8%8C  - WiKi  
-https://github.com/tadkim/infra/wiki/GitHub-::-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%82%AC%EC%9A%A9%EB%B2%95-1 - 
+https://github.com/tadkim/infra/wiki/GitHub-::-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%82%AC%EC%9A%A9%EB%B2%95-1 -필독   
 
 #### 2. GitHub 가입 방법  
 
