@@ -20,18 +20,15 @@ https://github.com/tadkim/infra/wiki/GitHub-::-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%8
 https://github.com/hochan222/Search/blob/master/GitHub%20%EA%B0%80%EC%9E%85%EB%B0%A9%EB%B2%95.md  
 
 #### 3. GitHub 사용 방법  
-
-https://github.com/hochan222/Search/blob/master/how_to_use_Git(Hub).md  
-
+ 
 Git은 다음과 같이 기본적으로 bash나 cmd 창을 이용하지만 이번 프로젝트는 주어진 환경상 GitHub 웹으로 사용 범위를 제한합니다.    
+  
+![screensh](./img/1.PNG)  
+![screensh](./img/2.PNG)  
 
-'파일 이름.md' 과 같이 파일명 뒤에 .md를 붙이면 text 파일을 생성 할 수 있습니다.   
+https://github.com/hochan222/Search/blob/master/how_to_use_Git(Hub).md   
 
-'파일 이름' 으로 파일명을 설정하면 코드 파일이 만들어진다.  
-
-'파일이름/' 과 같이 파일명 뒤에 /를 붙이고 ENTER를 누르면 폴더를 생성 할 수 있으며 빈 폴더는 생산 불가능하며 폴더 안에는 1개 이상의 파일들이 반드시 존재 하여야 한다.  
-
-#### 4. Branch 방법  
+#### 4. Branch 방법  
 
 
 #### 5. MarkDown Language  
@@ -43,8 +40,8 @@ https://github.com/hochan222/Search/blob/master/MarkDown.md
 #### 6. 프로젝트 내의 폴더 설명
 
 현황판 : 현재 전체 작업 현황을 나타낸 공간입니다.
-의견 제시 : 작업을 하다가 생긴 의견들을 명세화 한 공간입니다. 의견은 시간 순으로 정렬 합니다.
- 
+의견 제시 : 작업을 하다가 생긴 의견들을 명세화 한 공간입니다. 의견은 시간 순으로 정렬 합니다.  
+   
     호찬(17.10.10) - img/ dir 생성요청  
     Hochan dir 내에 img/ 생성완료  
     
