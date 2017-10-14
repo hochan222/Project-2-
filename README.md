@@ -28,8 +28,9 @@ Git은 다음과 같이 기본적으로 bash나 cmd 창을 이용하지만 이�
 
 [기본적인 GitHub 사용방법](https://github.com/hochan222/Search/blob/master/how_to_use_Git(Hub).md)   
 
-#### 4. Branch 방법  
+#### 4. 프로젝트 초대 및 Pulll request 방법  
 
+[프로젝트 초대 및 Pulll request](https://github.com/hochan222/Search/blob/master/GitHub%20pullrequests.md)
 
 #### 5. MarkDown Language  
  
