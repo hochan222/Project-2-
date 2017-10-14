@@ -36,7 +36,8 @@ Git은 다음과 같이 기본적으로 bash나 cmd 창을 이용하지만 이�
 
 GitHub에서는 MarkDown 언어를 주로 사용하므로 익혀둡시다. 우선 아직 시간이없어서 간략히 정리만 했습니다.  
 ![screensh](./img/1.PNG)  
-빨간색 사각형을 누르면 소스코드를 볼 수 있습니다.  
+     
+     보고싶은 소스코드 파일로 들어가서 빨간색 사각형을 누르면 소스코드를 볼 수 있습니다.  
 
 [기본적인 MarkDown Language 사용법](https://github.com/hochan222/Search/blob/master/MarkDown.md)   
 
