@@ -2,6 +2,9 @@
 [Netty](https://www.google.co.kr/search?newwindow=1&rlz=1C1MSNA_enKR702KR702&q=netty+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8&sa=X&ved=0ahUKEwjMibLujZDXAhWKU7wKHTUND-M4ChDVAgh2KAg&biw=1014&bih=740)  
 [자바 네트워크 소녀 Netty](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968482243&orderClick=LAG&Kc=#N)  
 
+
+https://blog.outsider.ne.kr/  
+
 - - -
 
 https://www.youtube.com/watch?v=-D1rEMHU8u4  
