@@ -4,6 +4,12 @@
 
 
 https://blog.outsider.ne.kr/  
+- - -
+
+정보처리산업기사 기출
+----------------
+http://blog.naver.com/iwebmania/220845787897
+
 
 - - -
 
