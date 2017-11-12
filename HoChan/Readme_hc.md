@@ -15,6 +15,13 @@ http://ykh9300.tistory.com/154
 
 - - -
 
+ML  
+
+http://m.edwith.org/deeplearningchoi?validMobileApp=true  
+http://www.aitimes.kr/news/articleView.html?idxno=10966  
+
+- - -
+
 https://www.youtube.com/watch?v=-D1rEMHU8u4  
 https://www.youtube.com/watch?v=Rx_oey82v0k  
 [기사](http://news.kukinews.com/news/article.html?no=91185)
