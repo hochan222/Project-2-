@@ -26,7 +26,7 @@ http://daeson.tistory.com/category/Machine%20Learning
 4. 다크프로그래머 블로그는 많이들 아시는 것 같구요.
 http://darkpgmr.tistory.com/
 5. 기계학습은 즐겁다! 시리즈 블로그입니다. 어느 분이 번역을 해 놓으셨는데, 여기 글 참 좋습니다.
-https://medium.com/…/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-…
+https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-1-9a0297198ad8
 6. PR12 모임에서 나온 논문 리뷰를 다시 글로 정리해 놓은 곳입니다. 영상 다시 보는 것은 시간이 조금 아쉽고 할때 보면 좋을 듯 합니다. 요즘은 업데이트 안하시는 듯 하지만요.
 https://jamiekang.github.io/archives/
 
