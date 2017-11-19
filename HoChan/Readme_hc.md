@@ -30,7 +30,8 @@ https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-le
 6. PR12 모임에서 나온 논문 리뷰를 다시 글로 정리해 놓은 곳입니다. 영상 다시 보는 것은 시간이 조금 아쉽고 할때 보면 좋을 듯 합니다. 요즘은 업데이트 안하시는 듯 하지만요.
 https://jamiekang.github.io/archives/
 
-http://m.edwith.org/deeplearningchoi?validMobileApp=true  
+https://drive.google.com/file/d/0B-qyuGELhRZ6dGhFeUNVaFNPbms/view    
+http://m.edwith.org/deeplearningchoi?validMobileApp=true  
 http://www.aitimes.kr/news/articleView.html?idxno=10966  
 
 
