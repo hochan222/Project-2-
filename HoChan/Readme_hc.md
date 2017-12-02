@@ -46,4 +46,13 @@ https://www.youtube.com/watch?v=Rx_oey82v0k
 
 
 
-ML - https://medium.com/@nikasa1889/the-modern-history-of-object-recognition-infographic-aea18517c318
+ML - https://medium.com/@nikasa1889/the-modern-history-of-object-recognition-infographic-aea18517c318  
+
+
+- - -
+
+Google Cloud Platform : Cloud Compute , Cloud Storage , Cloud Functions, etc..  
+OS : Ubuntu Linux / Docker  
+Web Server : Nginx / Node.js ( + Express ) / PHP  
+DB : MySQL / Redis  
+
