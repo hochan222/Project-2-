@@ -1,3 +1,7 @@
+[SofewareDeveloperLoadmap](https://www.slideshare.net/sunnykwak90/ss-33435859)  
+
+- - -
+
 Google Cloud Platform : Cloud Compute , Cloud Storage , Cloud Functions, etc..  
 OS : Ubuntu Linux / Docker  
 Web Server : Nginx / Node.js ( + Express ) / PHP  
