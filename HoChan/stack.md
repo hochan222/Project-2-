@@ -1,4 +1,4 @@
-[SofewareDeveloperLoadmap](https://www.slideshare.net/sunnykwak90/ss-33435859)  
+1. [Sofeware Developer Loadmap](https://www.slideshare.net/sunnykwak90/ss-33435859)  
 
 - - -
 
