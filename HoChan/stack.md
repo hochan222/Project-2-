@@ -1,5 +1,5 @@
-1. [Sofeware Developer Loadmap](https://www.slideshare.net/sunnykwak90/ss-33435859)  
-2. [book_loadmap_mindmeiseter](https://www.mindmeister.com/ko/530652609/_)  
+1. [Sofeware Developer Loadmap](https://www.slideshare.net/sunnykwak90/ss-33435859) - https://www.slideshare.net/sunnykwak90/ss-33435859    
+2. [book_loadmap_mindmeiseter](https://www.mindmeister.com/ko/530652609/_) - https://www.mindmeister.com/ko/530652609/_  
 - - -
 
 Google Cloud Platform : Cloud Compute , Cloud Storage , Cloud Functions, etc..  
