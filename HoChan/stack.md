@@ -19,4 +19,11 @@ MVC 등 패턴에 대한 경험이 있으신 분
 ■ 모집 인원 • [개발팀] Javascript / Node.js 개발자 O명 (2년차 이상) • 관련 프로젝트 경험이 있는 신입도 지원 가능  
 ■ 개발 스택 • Node.js, Javascript (ES6) • MongoDB • AWS (EC2, S3), Nginx, Iamport (결제)  
 
+- - -
+
+• 자격 요건- 웹/백엔드 개발 2년 이상 경력- Javascript, MySQL 능숙한 활용 가능- 4년제 대학 컴퓨터 공학(혹은 유사 전공) 학사 이상 혹은 동등 실력 보유자  
+• 우대 사항- Node.js, React.js/Vue.js 경험자 우대- Amazon AWS 경험자 우대- 마이크로서비스 설계 경험자 우대  
+
+- - -
+
 
