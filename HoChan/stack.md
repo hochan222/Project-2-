@@ -26,4 +26,4 @@ MVC 등 패턴에 대한 경험이 있으신 분
 
 - - -
 
-
+http://www.msc.or.kr/board/list.asp?b_code=B_NOTICE&tid=104&sid=126  
